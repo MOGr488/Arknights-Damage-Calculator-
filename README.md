@@ -1,5 +1,5 @@
 ### Arknights Damage Calculator
-This project was made by someone who is bad at math but loves gaming and programming. 
+This passionate project was made by someone who is bad at math but loves gaming and programming. 
 Initially I thought of naming it Babel Calculator. Written fully using `Python` and using `Tkinter` as GUI 
 # Beware :
 - This project is my first program after learning the basics of `Python`. I thought about making an Arknights DPS calculator and to accomplich that I learned `Tkinter`.
