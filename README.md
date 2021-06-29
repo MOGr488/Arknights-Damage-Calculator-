@@ -6,7 +6,8 @@ Initially I thought of naming it Babel Calculator. Written fully using `Python` 
 
 - I think my work contain a lot of comments and mistakes that you could `As Programmer` learn from.
 
-- I used Tkinter with `Azure-Theme` from `https://github.com/rdbende/Azure-ttk-theme` 
+- I used Tkinter with `Azure-Theme` from `https://github.com/rdbende/Azure-ttk-theme` @rdbende
+
 
 # What Arknights Damage Calculator has?
 - Physical Damage Calculator
