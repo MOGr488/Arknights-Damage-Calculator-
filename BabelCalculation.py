@@ -202,7 +202,6 @@ def Physical_DMG_Formula():
 
 
 
-
 #Stats section frame <------------------------------------------------------->
 frm_Stats = ttk.LabelFrame(master=window, text='Stats', width=110, height=100)
 frm_Stats.place(x=10, y=10)
