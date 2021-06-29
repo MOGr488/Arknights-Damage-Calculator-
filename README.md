@@ -26,3 +26,8 @@ I'm an IT student second year as of `June-2021`. I love to play many diffrent ga
 #Contact: 
 You got a question ? 
 Discord `MOGr488#4281` or find me in our gaming community server  `https://discord.gg/ezet5vk`
+
+
+# Workflow :
+This picture show the workflow of the inputs and how lists are handled behind the scenes. ( Does NOT represent the actual variables and lists)
+![image](https://github.com/MOGr488/Arknights-Damage-Calculator-/blob/main/Workflow.png)
